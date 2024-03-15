@@ -19,7 +19,7 @@
   - []()
     
 - <b>Tableau Projects</b>
-  - [Sample SuperStore Data Analysis Project]
+  - Sample SuperStore Data Analysis Project
  [Superstore_Dashboard.pdf](https://github.com/echris100/Portfolio/files/14611293/Superstore_Dashboard.pdf)
 
 
