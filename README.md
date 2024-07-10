@@ -131,3 +131,5 @@
 ![Q7](https://github.com/sirskin01/try01/assets/144762826/0c2a20a7-cde5-4bf9-b06c-1dd288005acb)
 
 ##### In conclusion, Archer Hort is the customer with the highest order greater than $1000. In terms of profit, the southern region has the highest maximum profit and France has the highest total sales from all countries.
+
+<h3> 🤳 Connect with me:</h3>
