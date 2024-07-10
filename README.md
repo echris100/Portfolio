@@ -1,4 +1,4 @@
-### <h1> My Data Analytics Portfolio Projects <br/><a href="https://github.com/sirskin01/try01"> <a> </h1>
+### <h1> My Data Analytics Portfolio Projects <br/></h1>
 
 ### [Project 1: SQL IMDB movie Analysis]
 ### Project Goal: The goal of this project is to analyze imdb movie database using pandas and sql queries. First the data was collected from kaggle, then loaded into the data warehouse. Then the data was loaded into pandas Dataframe, using Jupyter notebooks cleaning and processing and finally loaded into SQL server database for further analytics. The following questions were used to analyse this dataset:
@@ -58,10 +58,6 @@
 
 
 
-
-
-
-
 ### [Project 4: Tableau Sample SuperStore Dashboard] 
 
 #### Project Goal: To analyze the company's sales and profit performances. The dashboard also shows the different kPI’s as well as the current year to date sales of all categories and subcategories. 
@@ -85,6 +81,10 @@
 
 #### Decision tree model: The Decision Tree for the training data is pruned for better accuracy 
 ![model_prun](https://github.com/sirskin01/try01/assets/144762826/fe99467b-c793-4640-8001-6255a2a4fa1f)
+
+#### Decision tree diagram: 
+![image](https://github.com/echris100/Portfolio/assets/163300581/a11bb379-7f74-458f-93ed-f3cead29f67c)
+##### From the first tree model, a total of 1029 observations were made, 566 were competitive. The first split was Open Price, and it suggests that for any item to be competitive, it will depend on the first split (open price). If the open price is <= 2.4499 then that item is said to be competitive with an observe rate of 314 / 406. If open price > 2.4499 then that item will be less competitive with an observe rate of 371 / 623.
 
 #### confusion matrix
 ![prun_conf](https://github.com/sirskin01/try01/assets/144762826/90a27939-de6d-442b-a37f-43d192a1dd86)
@@ -133,3 +133,5 @@
 ##### In conclusion, Archer Hort is the customer with the highest order greater than $1000. In terms of profit, the southern region has the highest maximum profit and France has the highest total sales from all countries.
 
 <h3> 🤳 Connect with me:</h3>
+[LinkedIn]www.linkedin.com/in/chrisemezie
+
