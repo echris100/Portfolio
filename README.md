@@ -101,7 +101,7 @@
 
 
 
-### [Project 6: SQL Sales Target Analytics]
+### [Project 6: SQL Sales Analysis]
 #### Loading and querying the dataset
 ![orders ](https://github.com/sirskin01/try01/assets/144762826/409469e6-8da7-4aeb-8430-b34d549ec8bb)
 
